@@ -1,0 +1,14 @@
+#container {background-color:#CEFEFD ;}
+#lateral {float:right; width: 200px;
+background-color: #01FEF6;
+}
+#lateral2 {float:left; width: 90px;
+background-color: #01FEF6;
+}
+.cabecera {background-color: #01FEF6;
+}
+#buscador {float: right;}
+#caja {max-width: 50%;}
+.p-2 {float: left;}
+.p-3 {float: left;}
+.p-4 div {float: left; }
